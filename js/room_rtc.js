@@ -1,6 +1,6 @@
 // This file handles AgoraRTC functionality
 
-const APP_ID = "4432ab4e39e64aa2847e89c9c9295984"
+const APP_ID = "17aee853fa3948748f1fab59626118e9"
 
 let uid = sessionStorage.getItem('uid')
 if(!uid){

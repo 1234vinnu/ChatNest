@@ -69,4 +69,5 @@ ChatNest/
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 ---
-Created by Chhagan Ram Choudhary
+Created by T Praveen Kumar
+
